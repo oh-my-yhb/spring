@@ -5,14 +5,10 @@ import com.github.pagehelper.PageInfo;
 import com.honorzhang.postgresql.model.MapElement;
 import com.honorzhang.postgresql.service.MapService;
 import lombok.extern.slf4j.Slf4j;
-import net.sf.json.JSONArray;
-import net.sf.json.JSONObject;
+
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.*;
 
-
-import java.util.ArrayList;
 import java.util.List;
 
 /**

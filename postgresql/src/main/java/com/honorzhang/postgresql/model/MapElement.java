@@ -1,9 +1,6 @@
 package com.honorzhang.postgresql.model;
 
-import com.fasterxml.jackson.databind.util.JSONPObject;
 import lombok.Data;
-
-import java.math.BigDecimal;
 
 /**
  * @program: postgresql

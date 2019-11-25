@@ -1,7 +1,6 @@
 package com.honorzhang.postgresql.service;
 
 import com.honorzhang.postgresql.model.MapElement;
-import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
